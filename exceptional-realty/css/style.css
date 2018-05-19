@@ -9,7 +9,7 @@ property: value;
 /*Type selector*/
 p {
  font-size: 1em ; /* 16px default */
- line-height: 1.5em
+ line-height: 10em
  }
 
 figcaption {
